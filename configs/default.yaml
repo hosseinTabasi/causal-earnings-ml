@@ -1,0 +1,4 @@
+seed: 0
+n: 400
+true_ate: 0.0
+# Set true_ate only for simulations. Real events: leave unset and supply data/events.csv
